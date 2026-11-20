@@ -26,11 +26,11 @@ The website is organized as a connected collection of modular web pages:
   * Features the project hero banner, system status readout, quick-navigation directory cards, and an **Old Risks vs. New Risks** comparative matrix.
 * **`cybersafety.html` — Cyber Safety Fundamentals**
   * Covers core digital hygiene, credential management, encryption basics, and protecting personal data footprints.
-* **`threats.html` — Threat Intelligence Matrix**
+* **`threats` — Threat Intelligence Matrix**
   * A structured breakdown of active cyber threats, social engineering tactics, risk severity indicators, and real-world attack scenarios.
-* **`responsibilities.html` — Digital Citizenship & Ethics**
+* **`responsibilities` — Digital Citizenship & Ethics**
   * Outlines user accountability online, including consent, misinformation prevention, and responsible reporting.
-* **`safe.html` — Defensive Protocols & Countermeasures**
+* **`safe` — Defensive Protocols & Countermeasures**
   * Actionable checklists and step-by-step habits for hardening accounts, verifying communications, and maintaining device security.
 * **`ai.html` — Generative AI & Emerging Risks**
   * Explains the mechanics behind pattern-predicting AI models alongside deepfake spoofing, automated scams, data scraping, and AI safety guardrails.
